@@ -1,0 +1,4 @@
+# Ignore llama31-8b-sft-fold3 to fold10
+models/
+src/
+rag.ipynb
